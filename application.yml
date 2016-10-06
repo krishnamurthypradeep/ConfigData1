@@ -14,7 +14,7 @@ eureka:
 
 ---
 newConfig:
- data: Hi All
+ data: Message 1 From Service Bus
 
 ---
  
